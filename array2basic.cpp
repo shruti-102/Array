@@ -19,4 +19,5 @@ int main()
 		printf("element %d is found at %d position",n,m+1);
 		m--;
 	}
+	printf("New line added");
 }
